@@ -24,7 +24,7 @@ title-slide-attributes:
 # Salari ed Inquadramenti {data-background="img/precaricnr_02.jpg" data-background-size="contain" data-background-repeat="no-repeat"}
 
 
-## {.smaller}
+## SALARI ED INQUADRAMENTI {.smaller}
 
 
 | Legge di Interesse | Descrizione | Situazione |
@@ -33,7 +33,7 @@ title-slide-attributes:
 | ex art. 15  | carriera | formalmente approvato scorrimento circa 800 persone. **Molti in pensioni o prossimi.**|
 | art 20 comma2 dlgs 75/2017, comma 669 legge 205/2017, Direttiva 99/70/CE | Riconoscimento anzianità TD, Assegnisti, Borsisti | In predisposizione ricorso collettivo USB EPR. **132 CNR** |
 
-## {.smaller}
+## Futuro Buio {.smaller}
 
 - **PNNR2** : dimezzamento assegni di ricerca erogabili, il resto diventano borse oppure spostare il personale sulla ricerca privata finanziata
 
@@ -56,11 +56,11 @@ spazio europeo della ricerca;
     - promuove la diffusione della conoscenza nella società;
 
 
-#    Piano di Rilancio CNR                            {data-background="img/cnr_roma.jpg" data-background-size="contain" data-background-repeat="no-repeat"}
+#    Piano di Rilancio CNR                         {data-background="img/cnr_roma.jpg" data-background-size="contain" data-background-repeat="no-repeat"} 
 
 
 
-##  {.smaller}
+## Piano Rilancio CNR {.smaller}   
 
 - Non trasparente.
 
