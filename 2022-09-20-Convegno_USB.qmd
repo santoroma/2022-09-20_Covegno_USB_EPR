@@ -14,7 +14,8 @@ format:
         progress: true
         slide-number: c/t 
         footer: Convegno USB Criticità Enti Pubblici  
-        lang: it     
+        lang: it   
+        preview-links: true  
 title-slide-attributes:
     data-background-image:  img/scudo_16.png
     data-background-size: cover
