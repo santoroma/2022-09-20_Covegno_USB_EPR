@@ -2,7 +2,7 @@
 format: 
     revealjs:
         title: "Situazione CNR"
-        institute: Direttivo USB CNR
+        institute: <br> <br> <br> <br> <br> <br>  Direttivo USB CNR
         date: "2022-09-20"
         date-format: iso
         theme: league
@@ -16,7 +16,7 @@ format:
         footer: Convegno USB Criticità Enti Pubblici  
         lang: it     
 title-slide-attributes:
-    data-background-image: img/copertina01.jpg
+    data-background-image:  img/scudo_16.png
     data-background-size: cover
 ---
 
@@ -29,8 +29,8 @@ title-slide-attributes:
 
 | Legge di Interesse | Descrizione | Situazione |
 | ------------------ | ----------- | ---------- |
-| art. 22, comma 15 dlgs 75/2017 |  valorizzazione professionalità interne |  582 domande 105 posti **Sottoinquadramento** |
-| ex art. 15  | carriera | formalmente approvato scorrimento circa 800 persone. **Molti in pensioni o prossimi.**|
+| art. 22, comma 15 dlgs 75/2017 |  Valorizzazione professionalità interne |  582 domande 105 posti **Sottoinquadramento** |
+| ex art. 15  | Carriera | Formalmente approvato scorrimento 800 persone. **Molti in pensioni o prossimi.**  Alcuni se accettano perdono salario, passando da tecnico a tecnologo. |
 | art 20 comma2 dlgs 75/2017, comma 669 legge 205/2017, Direttiva 99/70/CE | Riconoscimento anzianità TD, Assegnisti, Borsisti | In predisposizione ricorso collettivo USB EPR. **132 CNR** |
 
 ## Futuro Buio {.smaller}
@@ -62,18 +62,18 @@ spazio europeo della ricerca;
 
 ## Piano Rilancio CNR {.smaller}   
 
-- Non trasparente.
+- Non trasparente
 
 - Un percorso partecipato **non è** scegliere il nome di una nave o un logo
 
-- Diversi Istituti CNR hanno competenze ad hoc [ISTC](https://www.istc.cnr.it/en/content/manuale-di-progettazione-partecipata-con-i-bambini-e-le-bambine), [ISSIFRA](https://www.issirfa.cnr.it/attivita-di-ricerca/progetti-conclusi/progetto-percorsi/)
+- Diversi Istituti CNR hanno competenze ad hoc [ISTC](https://www.istc.cnr.it/en/content/manuale-di-progettazione-partecipata-con-i-bambini-e-le-bambine), [ISSIFRA](https://www.issirfa.cnr.it/attivita-di-ricerca/progetti-conclusi/progetto-percorsi/) che non sono state riconosciute
 
 - **Voci**: bocciatura dai revisori dei conti in particolare il revisore MEF
 
 - Meccanismi peggiorativi su reclutamento sulla falsa riga di PNNR2
 
-- Amministrazione su scala regionale fuori dagli istituti:
+- Aggiunta di uno strato amministrativo intermedio tra istituti e centrale, **i provveditorati**, dislocati sul territorio nazionale:
 
     - Molti istituti sono in più regioni
-    - Livello intermedio che potrebbe dare interpretazioni diverse
+    - E se i diversi provveditorati generassero dei conflitti interpretativi e delle difformità amministrative?
     - Es. IAC Roma (Lazio-Toscana) vs IAC Bari (Puglia-Basilicata)
